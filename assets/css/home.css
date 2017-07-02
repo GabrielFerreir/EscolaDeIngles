@@ -1,0 +1,87 @@
+.home {
+    margin: 0 auto;
+    width: 1024px;
+    height: auto;
+}
+.slide {
+    width: 1024px;
+    height: 356px;
+    background-color: #ccccff;
+}
+.bloco_noticias {
+    float: left;
+    margin-top: 30px;
+    width: 724px;
+    min-height: 300px;
+}
+.noticia {
+    width: 724px;
+    height: 200px;
+    margin: 0px 0 5px 0;
+}
+.noticia img {
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+.noticia h6 {
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.noticia span {
+    float: left;
+    font-size: 27px;
+    width: 450px;
+    max-height: 100px;
+    padding: 10px;
+    overflow: hidden;
+}
+.noticia a {
+    text-decoration: none;
+    color: #000;
+}
+.noticia p {
+    float: left;
+    margin-top: 5px;
+    width: 450px;
+    max-height:110px;
+    padding: 0 10px 0 10px;
+    overflow: hidden;
+}
+
+.infos {
+    float: left;
+    margin-left: 5px;
+    margin-top: 30px;
+    width: 275px;
+    height: 380px;
+    padding: 10px;
+}
+.infos h1 {
+    width: 100%;
+    text-align: center;
+}
+.jogo {
+    width: 100%;
+    height: 30px;
+    background-color: #FFF;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.infos b {
+    float: left;
+    margin-left: 10px;
+}
+.infos h5 {
+    float: right;
+    margin-right: 30px;
+    line-height: 20px;
+}
+.infos span {
+    text-align: center;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+}

@@ -1,0 +1,51 @@
+.noticias {
+    width: 1024px;
+    margin: 0 auto;
+}
+.noticia {
+    width: 100%;
+    min-height: 50px;
+    line-height: 50px;
+    margin: 10px 0;
+    background-color: #EAEAEA;
+    float: left;
+    color: #000;
+}
+.titulo {
+    float: left;
+    width: 700px;
+    text-align: center;
+}
+.data {
+    float: left;
+    width: 150px;
+    text-align: center;
+}
+.divBt {
+    float: left;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+}
+.divBt input {
+    float: left;
+    width: 50%;
+    height: 50px;
+    background-color: transparent;
+    border: 0;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: arial;
+    font: normal;
+}
+.divBt a {
+    float: left;
+    width: 50%;
+    height: 50px;
+    background-color: transparent;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    font-family: arial;
+}
+

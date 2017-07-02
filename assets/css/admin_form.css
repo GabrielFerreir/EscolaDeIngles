@@ -1,0 +1,9 @@
+.home {
+    width: 1024px;
+    margin: 5 auto;
+}
+input, textarea, select {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}

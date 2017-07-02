@@ -1,0 +1,44 @@
+* { margin: 0; padding: 0;}
+.home {
+    margin: 0 auto;
+    width: 1024px;
+    height: auto;
+}
+.home h1 {
+    width: 1024px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    }
+    .home h3 {
+        margin-left: 100px;
+        width: 824px;
+        text-align: center;
+        
+    }
+.home img {
+    display: block;
+    width: 1024px;
+}
+hr {
+    width: 824px;
+    height: 3px;
+    background-color: #ccccff;
+    border: 0;
+    display: block;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.data {
+    margin-top: 15px;
+    float: right;
+}
+p {
+    padding: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+.autor {
+    font-size: 14px;
+    float: right;
+}

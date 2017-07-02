@@ -1,0 +1,45 @@
+.home {
+    width: 1024px;
+    margin: 0 auto;
+}
+.bloco_noticias {
+    float: left;
+    margin-top: 10px;
+    width: 724px;
+    min-height: 300px;
+}
+.noticia {
+    width: 724px;
+    height: 200px;
+    margin: 0px 0 5px 0;
+}
+.noticia img {
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+.noticia h6 {
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.noticia span {
+    float: left;
+    font-size: 27px;
+    width: 450px;
+    max-height: 100px;
+    padding: 10px;
+    overflow: hidden;
+}
+.noticia a {
+    text-decoration: none;
+    color: #000;
+}
+.noticia p {
+    float: left;
+    margin-top: 5px;
+    width: 450px;
+    max-height:110px;
+    padding: 0 10px 0 10px;
+    overflow: hidden;
+}
